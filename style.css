@@ -1,19 +1,22 @@
 * {
     box-sizing: border-box;
     margin: 0 auto;
-    font-family: 'kanit';
+    font-family: 'Kanit';
+    font-style: italic;
+    font-weight: 500;
     text-align: center;
 }
 
 .heading {
-    font-size: 30px;
+    font-size: 40px;
     text-shadow: 1px 1px 1px black;
     color: orange;
+    font-family: 'bangers';
 }
 
 .container {
-    width: 400px;
-    height: 860px;
+    width: 360px;
+    height: 780px;
     background-color: white;
     border-radius: 20px;
     box-shadow: 2px 2px 4px black;
@@ -23,8 +26,13 @@
     color:rgb(112, 90, 133)
 }
 
+.grammar {
+    font-family: 'kanit';
+}
+
 .subjects {
-    color: mediumvioletred;
+    color: rgb(255, 0, 221);
+    font-family: 'sour gummy';
 }
 
 span {
@@ -55,8 +63,10 @@ span {
     background-color: aliceblue;
     box-shadow: 1px 1px 1px black;
     font-size: 20px;
+    font-family: 'sour gummy';
+    font-weight: 600;
     margin-top: 5px;
-    margin-bottom: 20px;
+    margin-bottom: 0px;
 }
 
 .btn-translation:active {
