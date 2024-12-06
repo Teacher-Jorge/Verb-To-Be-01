@@ -79,6 +79,7 @@ btn2_is.addEventListener('click', function() {
     word2.style.color = 'yellow'
     btn2_is.style.backgroundColor = 'red'
     btn2_is.style.color = 'yellow'
+    btn2_is.disabled = 'true'
 })
 
 btn2_am.addEventListener('click', function() {
@@ -86,6 +87,7 @@ btn2_am.addEventListener('click', function() {
     word2.style.color = 'yellow'
     btn2_am.style.backgroundColor = 'red'
     btn2_am.style.color = 'yellow'
+    btn2_am.disabled = 'true'
 })
 
 btn2_translate.addEventListener('click', function() {
@@ -124,6 +126,7 @@ btn3_are.addEventListener('click', function() {
     word3.style.color = 'yellow'
     btn3_are.style.backgroundColor = 'red'
     btn3_are.style.color = 'yellow'
+    btn3_are.disabled = 'true'
 })
 
 btn3_am.addEventListener('click', function() {
@@ -131,6 +134,7 @@ btn3_am.addEventListener('click', function() {
     word3.style.color = 'yellow'
     btn3_am.style.backgroundColor = 'red'
     btn3_am.style.color = 'yellow'
+    btn3_am.disabled = 'true'
 })
 
 btn3_translate.addEventListener('click', function() {
@@ -169,6 +173,7 @@ btn4_are.addEventListener('click', function() {
     word4.style.color = 'yellow'
     btn4_are.style.backgroundColor = 'red'
     btn4_are.style.color = 'yellow'
+    btn4_are.disabled = 'true'
 })
 
 btn4_am.addEventListener('click', function() {
@@ -176,6 +181,7 @@ btn4_am.addEventListener('click', function() {
     word4.style.color = 'yellow'
     btn4_am.style.backgroundColor = 'red'
     btn4_am.style.color = 'yellow'
+    btn4_am.disabled = 'true'
 })
 
 btn4_translate.addEventListener('click', function() {
@@ -214,6 +220,7 @@ btn5_are.addEventListener('click', function() {
     word5.style.color = 'yellow'
     btn5_are.style.backgroundColor = 'red'
     btn5_are.style.color = 'yellow'
+    btn5_are.disabled = 'true'
 })
 
 btn5_am.addEventListener('click', function() {
@@ -221,6 +228,7 @@ btn5_am.addEventListener('click', function() {
     word5.style.color = 'yellow'
     btn5_am.style.backgroundColor = 'red'
     btn5_am.style.color = 'yellow'
+    btn5_am.disabled = 'true'
 })
 
 btn5_translate.addEventListener('click', function() {
@@ -259,6 +267,7 @@ btn6_is.addEventListener('click', function() {
     word6.style.color = 'yellow'
     btn6_is.style.backgroundColor = 'red'
     btn6_is.style.color = 'yellow'
+    btn6_is.disabled = 'true'
 })
 
 btn6_am.addEventListener('click', function() {
@@ -266,6 +275,7 @@ btn6_am.addEventListener('click', function() {
     word6.style.color = 'yellow'
     btn6_am.style.backgroundColor = 'red'
     btn6_am.style.color = 'yellow'
+    btn6_am.disabled = 'true'
 })
 
 btn6_translate.addEventListener('click', function() {
@@ -304,6 +314,7 @@ btn7_is.addEventListener('click', function() {
     word7.style.color = 'yellow'
     btn7_is.style.backgroundColor = 'red'
     btn7_is.style.color = 'yellow'
+    btn7_is.disabled = 'true'
 })
 
 btn7_am.addEventListener('click', function() {
@@ -311,6 +322,7 @@ btn7_am.addEventListener('click', function() {
     word7.style.color = 'yellow'
     btn7_am.style.backgroundColor = 'red'
     btn7_am.style.color = 'yellow'
+    btn7_am.disabled = 'true'
 })
 
 btn7_translate.addEventListener('click', function() {
